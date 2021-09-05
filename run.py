@@ -1,3 +1,6 @@
+#!/bin/python3
+#MasterBurnt 
+#t.me/TheBurnt
 try:
     from concurrent.futures import ThreadPoolExecutor 
     import requests 
