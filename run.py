@@ -1,6 +1,9 @@
-#!/bin/python3
-#MasterBurnt 
-#t.me/TheBurnt
+#!/usr/bin/env python
+# -*- coding:utf-8 -*- 
+#
+# @name   : UsernameFind
+# @url    : http://github.com/MasterBurnt
+# @author : MasterBurnt 
 try:
     from concurrent.futures import ThreadPoolExecutor 
     import requests 
